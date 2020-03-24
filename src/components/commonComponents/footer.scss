@@ -1,0 +1,22 @@
+.footer{
+    background-color: #1b262c;
+    color: #fff;
+    padding: 30px 30px;
+    font-family: 'Montserrat-Bold','sans-serif' !important;
+    text-transform: uppercase;
+}
+
+.footer-col{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    ul{
+        list-style-type:none;
+        a:hover{
+            text-decoration: none;
+        }
+    }
+}
+
+.text-center{
+    text-align: center;
+}

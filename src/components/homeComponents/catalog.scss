@@ -1,0 +1,43 @@
+.catalog{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    background-color: #dee3e2;
+    
+    p{
+        color: #116979;
+        padding: 100px 100px 0 100px;
+        font-weight: 500px;
+        font-size: 30px !important;
+    }
+    a{
+        border: 2px solid #333;
+        padding: 10px;
+        color: #2b1453;
+        font-weight: 600;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #2b1453
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .catalog{
+        p{
+            padding: 100px 50px 0 50px;
+            font-weight: 400px;
+            font-size: 20px !important;
+        }
+    } 
+}
+
+@media only screen and (max-width: 600px) {
+    .catalog{
+        p{
+            padding: 100px 50px 0 50px;
+            font-weight: 400px;
+            font-size: 20px !important;
+        }
+    } 
+}
