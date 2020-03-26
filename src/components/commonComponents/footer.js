@@ -11,9 +11,9 @@ const Footer = () => (
             <Row>
                 <Col xs={12} sm={4} className="footer-col">
                     <h5>Where to find us</h5>
-                    <p><i class="fa fa-phone" aria-hidden="true"></i> +91-9780443873</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i> #2162-C, Sector 63, CHD</p>
-                    <p><i class="fa fa-envelope" aria-hidden="true"></i> madhav@rawble.in</p>
+                    <p><i class="fa fa-phone" aria-hidden="true"></i> +91-9829565633</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i> Delhi, India</p>
+                    <p><i class="fa fa-envelope" aria-hidden="true"></i> madhur@rawble.in</p>
                 </Col>
                 <Col xs={12} sm={4} className="footer-col">
                     <h5>Important Links</h5>
